@@ -1,4 +1,5 @@
-Download link :
+Download link :https://programmingsolver.com/questions-and-answers/systems-programming-assignment-5-more-scripting-python-edition/
+
 For this assignment, you will use Python 3 to create a simple templating engine. Your program should take as input a generic template with placeholders for generic data, a set of input files containing data which should be applied to the template, and a date. Instantiated templates using the input data will be output to a subdirectory.
 
 This assignment requires only Python. Do not use the command line utilities used in the previous assignment. You are encouraged to explore the Python standard library (the shutil module may be particularly useful).
